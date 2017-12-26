@@ -9,8 +9,8 @@
     "serve": "http-server"
   },
   "dependencies": {
-    "rust-wasm-loader": "../",
+    "rust-wasm-loader": "0.1.2",
     "http-server": "^0.9.0",
-    "webpack": "^2.2.1"
+    "webpack": "^3.10.0"
   }
 }

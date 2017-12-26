@@ -12,6 +12,7 @@ module.exports = {
           loader: 'rust-wasm-loader',
           options: {
             path: 'build/',
+            release: true,
           }
         }
       }

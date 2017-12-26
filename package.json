@@ -1,15 +1,15 @@
 {
   "name": "rust-wasm-loader",
   "version": "0.1.2",
-  "author": "Ian J Sikes",
+  "author": "Hugo Tunius",
   "description": "Webpack loader for Rust compiled to WebAssembly using Emscripten",
   "dependencies": {
-    "loader-utils": "^1.0.3",
+    "loader-utils": "^1.1.0",
     "toml": "^2.3.2"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ianjsikes/rust-wasm-loader"
+    "url": "git@github.com:k0nserv/rust-wasm-loader"
   },
   "main": "index.js",
   "license": "MIT"
